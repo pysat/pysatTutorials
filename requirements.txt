@@ -2,5 +2,6 @@ numpy
 matplotlib
 pysat >= 3.0.0
 pysatMadrigal
+pysatNASA
 pysatSpaceWeather
 scipy
