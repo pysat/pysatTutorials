@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: ../readme.md
+chapters:
+- file: download_and_plot_ace_demo
+- file: custom_attach_demo
+- file: DMSP_Polar_Plotting_Example
