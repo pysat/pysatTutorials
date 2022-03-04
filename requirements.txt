@@ -1,3 +1,4 @@
+jupyter
 numpy
 matplotlib
 pysat >= 3.0.0
