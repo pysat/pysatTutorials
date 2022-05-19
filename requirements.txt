@@ -3,5 +3,6 @@ matplotlib
 pysat >= 3.0.0
 pysatMadrigal
 pysatNASA
+pysatSeasons
 pysatSpaceWeather
 scipy
